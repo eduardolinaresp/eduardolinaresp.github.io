@@ -1192,3 +1192,17 @@ margin-right: 8px;
 
 
 }
+
+.contenedor {
+	width: 800px;
+	margin: auto;
+	position: relative;
+  }
+
+
+  .contacto {
+	display: flex;
+	width: 300px;
+	flex-wrap: wrap;
+	align-items: center;
+  }
